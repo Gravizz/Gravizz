@@ -132,12 +132,3 @@ Architecture   Microservices / Caching / Data Pipelines / Real-time Systems
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/Gravizz">
-<img src="https://github-readme-stats.vercel.app/api?username=Gravizz&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true" alt="Gravizz's GitHub stats" />
-</a>
-
-<a href="https://github.com/Gravizz">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gravizz&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
